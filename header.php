@@ -3,7 +3,6 @@
 <html>
 
 	<head>
-	
 		<title>Matthew Randell</title>
 		<link rel="shortcut icon" href="?\favicon.ico">
 		<link rel="stylesheet" type="text/css" href="css/index.css">
@@ -14,6 +13,6 @@
 	</head>
 	<body>
 		<div id="top">
-			<h1>Matthew Randell</h1>
+			<h1><a href="index.php">Matthew Randell</a></h1>
 		</div>
 		<br />
