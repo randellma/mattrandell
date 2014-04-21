@@ -22,14 +22,16 @@
 <div class="divider"></div>
 
 <div id="content">
+
 	<div class="section">
-		<h2>Social Media</h2>
-		<div class="subalign">
-			<p><a href="/"><span class='symbol'>circletwitterbird</span> Twitter</a></p>
-			<p><a href="/"><span class='symbol'>circlegithubalt</span> GitHub</a></p>
-			<p><a href="/"><span class='symbol'>circlelinkedin</span> LinkedIn</a></p>
-		</div>
+		<h2>Work</h2>
+		<p>Work as a devloper designing and developing custom software for automated manufacturing conveyance and production systems at <a href="http://www.brocksolutions.com">Brock Solutions</a>
+		</p>
+		<h2>Education</h2>
+		<p>Taught the fundamentals of engineering and how it relates to design, implementation, and ongoing maintenance of software systems at <a href="http://www.mcmaster.ca/">McMaster University</a>
+		</p>
 	</div>
+	
 	<div class="section">
 		<h2>Projects</h2>
 		
@@ -37,7 +39,7 @@
 		<!--<img src="img/readsy_live.png" />-->
 		<p>An extension that brings embedded speed reading to any website with a double click</p>
 		
-		<h3><a href="projects.php#hashtracker">HashTracker</a></h3>
+		<h3><a href="projects.php#hashtracker">Hash Tracker</a></h3>
 		<!--<img src="img/hashtracker_interface.png" />-->
 		<p>Track your time and automatically categorize it with hashtags and other special tagging symbols</p>
 		
@@ -46,14 +48,14 @@
 		<p>A tool to create gift exchange (secret santa) groups with exchange restrictions</p>
 		
 	</div>
+		
 	<div class="section">
-		<h2>Work</h2>
-		<p>Work as a devloper designing and developing custom software for automated manufacturing conveyance and production systems at <a href="http://www.brocksolutions.com">Brock Solutions</a>
-		</p>
-	</div>
-	<div class="section">
-		<h2>Education</h2>
-		<p>Taught the fundamentals of engineering and how it relates to design, implementation, and ongoing maintenance of software systems at <a href="http://www.mcmaster.ca/">McMaster University</a>
-		</p>
+		<h2>Social Media</h2>
+		<div class="subalign">
+			<p><a href="/"><span class='symbol'>circletwitterbird</span> Twitter</a></p>
+			<p><a href="/"><span class='symbol'>circlegithubalt</span> GitHub</a></p>
+			<p><a href="/"><span class='symbol'>circlelinkedin</span> LinkedIn</a></p>
+			<p><a href="/"><span class='symbol'>circlegoogleplus</span> Google+</a></p>
+		</div>
 	</div>
 </div>

@@ -49,6 +49,11 @@ body
 	max-width: 300px;
 }
 
+.section p
+{
+	margin: 5px;
+}
+
 #sidebar
 {
 	float: left;
