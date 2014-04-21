@@ -24,6 +24,7 @@
 <div id="content">
 	<div class="section">
 		<h2>Social Media</h2>
+		<span class='symbol'>circletwitterbird</span>
 	</div>
 	<div class="section">
 		<h2>Projects</h2>
