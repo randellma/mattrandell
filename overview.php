@@ -24,7 +24,11 @@
 <div id="content">
 	<div class="section">
 		<h2>Social Media</h2>
-		<span class='symbol'>circletwitterbird</span>
+		<div class="subalign">
+			<p><a href="/"><span class='symbol'>circletwitterbird</span> Twitter</a></p>
+			<p><a href="/"><span class='symbol'>circlegithubalt</span> GitHub</a></p>
+			<p><a href="/"><span class='symbol'>circlelinkedin</span> LinkedIn</a></p>
+		</div>
 	</div>
 	<div class="section">
 		<h2>Projects</h2>
@@ -44,8 +48,12 @@
 	</div>
 	<div class="section">
 		<h2>Work</h2>
+		<p>Work as a devloper designing and developing custom software for automated manufacturing conveyance and production systems at <a href="http://www.brocksolutions.com">Brock Solutions</a>
+		</p>
 	</div>
 	<div class="section">
 		<h2>Education</h2>
+		<p>Taught the fundamentals of engineering and how it relates to design, implementation, and ongoing maintenance of software systems at <a href="http://www.mcmaster.ca/">McMaster University</a>
+		</p>
 	</div>
 </div>

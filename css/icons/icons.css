@@ -24,15 +24,7 @@
     font-smoothing: antialiased;
 }
 
-a.symbol:before {
-    content: attr(title);
-    margin-right: 0.3em;
-    font-size: 130%;
-}
-
-a.symbol {
-    background: #9f9f9f;
-    padding: 7px 5px 3px 5px;
-    color: white;
-    text-decoration: none;
+.symbol 
+{
+    font-size: 50px;
 }

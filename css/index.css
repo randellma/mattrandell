@@ -98,3 +98,10 @@ a
 	color: #5CDE4E;
 	text-decoration: none;
 }
+
+.subalign
+{
+	width: 150px;
+	text-align: left;
+	margin: auto;
+}
