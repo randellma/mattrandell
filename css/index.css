@@ -4,8 +4,8 @@ body
 	font-family: verdana;
 	padding: 0px;
 	height: 100%;
-	max-width: 900px;
 	color: #949494;
+	
 }
 
 .circular 
@@ -39,7 +39,6 @@ body
 
 .section
 {
-	width: 300px;
 	float: left;
 	text-align: center;
 }

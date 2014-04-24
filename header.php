@@ -10,6 +10,7 @@
 		<link rel='stylesheet' media='screen and (max-width: 599px)' href="css/under600.css" />
 		<link rel='stylesheet' media='screen and (min-width: 600px)' href="css/over600.css" />
 		<link rel='stylesheet' media='screen and (min-width: 900px)' href="css/over900.css" />
+		<link rel='stylesheet' media='screen and (min-width: 1200px)' href="css/over1200.css" />
 		<link rel='stylesheet' media='screen and (max-width: 599px)' href="css/under600.css" />
 	</head>
 	<body>

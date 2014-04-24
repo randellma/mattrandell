@@ -1,0 +1,19 @@
+#blurb
+{
+	max-width: 800px;
+}
+
+#content
+{
+	max-width: 1200px;
+}
+
+.section
+{
+	width: 400px;
+}
+
+body
+{
+	max-width: 1200px !important;
+}
