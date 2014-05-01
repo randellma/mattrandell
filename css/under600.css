@@ -8,6 +8,18 @@
 	max-width: 400px;
 }
 
+#sidebar, #pagecontent
+{
+	float: none;
+}
+
+#pagecontent, #pagecontent img
+{
+	max-width: 300px;
+	margin-left: 0px;
+	margin: auto;
+}
+
 .section
 {
 	width: 400px;

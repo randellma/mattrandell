@@ -8,6 +8,12 @@
 	max-width: 900px;
 }
 
+
+#pagecontent, #pagecontent img
+{
+	max-width: 600px;
+}
+
 .section
 {
 	width: 300px;
