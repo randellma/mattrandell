@@ -81,6 +81,13 @@ body
 	width: 100%;
 }
 
+#pagecontent h3
+{
+	color: #5CDE4E;
+	display: inline-block;
+}
+
+
 #pagecontent img
 {
    border:1px solid #949494;
@@ -122,4 +129,9 @@ a
 	width: 150px;
 	text-align: left;
 	margin: auto;
+}
+
+.sidelink
+{
+float: right;
 }
