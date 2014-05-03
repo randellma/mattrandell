@@ -30,14 +30,15 @@
 		
 		<img src="img/hashtracker_interface.png" />
 		
-		<p></p>
+		<p>I needed a tool to track my time as non-intrusively as possible. At my work we had a timesheets app but entering the correct category and subcategory was too tedious to do in real time while frequently switching between tasks. </p>
+		<p>I found myself writing what I was doing in notepad and trying to transcribe it after the fact. I noticed that I could use natural language to track tasks if I used a basic Twitter style tagging system within the notes themselves. This was different than any existing time tracking software that I could find out there and I was looking for a project to refine my PHP skills so I gave it a shot.</p>
 		
 		<h4>Technologies</h4>
 		<ul>
-			<li>Javascript</li>
-			<li>HTML5</li>
-			<li>CSS3</li>
-			<li>Chrome Extension API</li>
+			<li>PHP</li>
+			<li>MySQL</li>
+			<li>HTML</li>
+			<li>CSS</li>
 		</ul>
 		
 		<h3 id="giftology">Giftology</h3>
@@ -47,15 +48,16 @@
 		
 		<img src="img/giftology.png" />
 		
-		<p></p>
+		<p>For multiple years I was involved with a secret santa gift exchange with my large group of friends. Choosing the exchange pairings was tricky though. We relied on the old "names in a hat" technique but this quickly became tedious as we had rules that restricted couples from pairing with one another and a person from getting who they got last year.</p>
+		<p>After one year that took upwards of ten tries to get the pairings right I took it upon myself to create a simple application for next year that would make the process much simpler for years to come. It started out as an extremely basic console application but I used it as an opportunity to learn the basics of PHP and soon had grand ideas for growth and expansion.</p>
 		
 		
 		<h4>Technologies</h4>
 		<ul>
-			<li>Javascript</li>
-			<li>HTML5</li>
-			<li>CSS3</li>
-			<li>Chrome Extension API</li>
+			<li>PHP</li>
+			<li>MySQL</li>
+			<li>HTML</li>
+			<li>CSS</li>
 		</ul>
 		
 	</div>

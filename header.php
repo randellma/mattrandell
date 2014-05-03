@@ -4,7 +4,7 @@
 
 	<head>
 		<title>Matthew Randell</title>
-		<link rel="shortcut icon" href="?\favicon.ico">
+		<link rel="shortcut icon" href="favicon.png">
 		<link rel="stylesheet" type="text/css" href="css/index.css" />
 		<link rel="stylesheet" type="text/css" href="css/icons/icons.css" />
 		<link rel="stylesheet" type="text/css" href="css/print.css" />

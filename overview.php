@@ -35,7 +35,7 @@
 	<div class="section">
 		<h2>Projects</h2>
 		
-		<h3><a href="projects.php#readsy">Readsy</a></h3>
+		<h3><a href="projects.php">Readsy</a></h3>
 		<!--<img src="img/readsy_live.png" />-->
 		<p>An extension that brings embedded speed reading to any website with a double click</p>
 		
