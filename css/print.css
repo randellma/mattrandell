@@ -1,5 +1,9 @@
 @media print
 {    
+	.noprint
+	{
+		display: none !important;
+	}
     #sidebar
     {
         display: none !important;
@@ -9,4 +13,36 @@
     {
 	    display: none !important;
     }
+    #pagecontent
+    {
+	    margin: 0px;
+	    float: none;
+    }
+    
+    .resume_header:nth-child(n+2)
+	{
+		page-break-before: always;
+	}
+	
+	.resume_header
+	{
+		margin-top: 0px;
+	}
+	
+	.resume, .resume *
+	{
+		color: black !important;
+		font-size: 14px;
+		
+	}
+	
+	.printonly
+	{
+		display: block !important;
+	}
+}
+
+.printonly
+{
+	display: none;
 }

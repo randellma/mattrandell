@@ -4,7 +4,7 @@
 			<a href="index.php"><img class="circular" src="img/photo_square.jpg" alt="some_text" height="150" width="150" /></a>
 		</div>
 		<div id="blurb_text">
-			<p>Hello! I'm an enthusiastic software engineer. <a href="aboutme.php">More about me</a> </p>
+			<p>Hello! I'm an enthusiastic software engineer that loves working on interesting new things. <!--<a href="aboutme.php">More about me</a> --></p>
 		</div>
 	</div>
 	<div class="section">
@@ -15,7 +15,7 @@
 			905-546-6191
 		</p>
 		<h2>Resume</h2>
-		<p><a href="/">PDF</a> - <a href="/">Word</a> - <a href="/">HTML</a></p>
+		<p><a href="docs/MatthewRandellResume.pdf">PDF</a> - <!--<a href="docs/MatthewRandellResume.docx">Word</a> - --><a href="resume.php">HTML</a></p>
 	</div>
 </div>
 
@@ -23,12 +23,12 @@
 
 <div id="content">
 
-	<div class="section">
+	<div class="section unimportant">
 		<h2>Work</h2>
-		<p>Work as a devloper designing and developing custom software for automated manufacturing conveyance and production systems at <a href="http://www.brocksolutions.com">Brock Solutions</a>
+		<p>Work as a <strong>software devloper</strong> designing and developing custom software for automated manufacturing conveyance and production systems at <a href="http://www.brocksolutions.com">Brock Solutions</a>
 		</p>
 		<h2>Education</h2>
-		<p>Taught the fundamentals of engineering and how it relates to design, implementation, and ongoing maintenance of software systems at <a href="http://www.mcmaster.ca/">McMaster University</a>
+		<p>Taught the fundamentals of <strong>software engineering</strong> and how it relates to design, implementation, and ongoing maintenance of software systems at <a href="http://www.mcmaster.ca/">McMaster University</a>
 		</p>
 	</div>
 	

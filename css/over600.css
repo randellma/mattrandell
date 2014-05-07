@@ -23,3 +23,8 @@ body
 {
 	max-width: 600px;
 }
+
+.right
+{
+	float: left;
+}

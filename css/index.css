@@ -70,9 +70,10 @@ body
 
 #pagecontent
 {
-	float: left;
+	float: right;
 	margin-left: 100px;
 	width: 100%;
+	margin-bottom: 20px;
 }
 
 #pagecontent h2
@@ -84,7 +85,6 @@ body
 #pagecontent h3
 {
 	color: #5CDE4E;
-	display: inline-block;
 }
 
 
@@ -131,7 +131,13 @@ a
 	margin: auto;
 }
 
-.sidelink
+.sidelink, .right
 {
-float: right;
+	float: right;
+	
+}
+
+.left
+{
+	float: left;
 }

@@ -6,9 +6,16 @@
 	
 		<h2>Personal Projects</h2>
 		
-		<h3 id="readsy"><a href="#readsy">Readsy</a></h3>
-		<a href="https://github.com/randellma/Readsy"><span class='symbol sidelink'>circlegithubalt</span></a>
-
+		<h3 id="readsy" class="left"><a href="#readsy">Readsy</a></h3>
+		<a href="https://chrome.google.com/webstore/detail/readsy/nfgdmhanmkceplncfimjockmegfbaooa" title="Download From the Chrome Store">
+			<span class='symbol sidelink'>circleappstorealt</span>
+		</a>
+		<a href="https://github.com/randellma/Readsy" title="Github Link">
+			<span class='symbol sidelink'>circlegithubalt &nbsp;</span>
+		</a>
+		<div style="clear: both;"></div>
+		
+		
 		<p>Readsy is an extension for chrome that brings embedded speed reading to any website with just a double click of the text you want to read. </p>
 		<img src="img/readsy_live_crop.png" />
 		<p>I was inspired by <a href="http://www.spritzinc.com/">Spritz</a> before developers could sign up. I looked to the Chrome store for existing options but didn't like the over-complexity and need to manually select the text before speed reading then having the interface appear in a separate window of the application. The process ruined the flow of absorbing content.</p>
@@ -21,8 +28,11 @@
 			<li>Chrome Extension API</li>
 		</ul>
 		
-		<h3 id="hashtracker">Hash Tracker</h3>
-		<a href="https://github.com/randellma/timetracker"><span class='symbol sidelink'>circlegithubalt</span></a>
+		<h3 id="hashtracker" class="left">Hash Tracker</h3>
+		<a href="https://github.com/randellma/timetracker" title="Github Link">
+			<span class='symbol sidelink'>circlegithubalt</span>
+		</a>
+		<div style="clear: both;"></div>
 		
 		
 		
@@ -41,8 +51,12 @@
 			<li>CSS</li>
 		</ul>
 		
-		<h3 id="giftology">Giftology</h3>
-		<a href="https://github.com/randellma/giftology"><span class='symbol sidelink'>circlegithubalt</span></a>
+		<h3 id="giftology" class="left">Giftology</h3>
+		<a href="https://github.com/randellma/giftology" title="Github Link">
+			<span class='symbol sidelink'>circlegithubalt</span>
+		</a>
+		<div style="clear: both;"></div>
+		
 		
 		<p>Giftology is a web application to create gift exchange (secret santa) groups with exchange restrictions</p>
 		

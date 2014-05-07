@@ -13,6 +13,11 @@
 	float: none;
 }
 
+#sidebar
+{
+	border-bottom: 1px solid #949494;
+}
+
 #pagecontent, #pagecontent img
 {
 	max-width: 300px;
@@ -29,4 +34,18 @@
 body
 {
 	max-width: 400px;
+}
+
+.left
+{
+}
+
+.right
+{
+float: left;
+}
+
+.unimportant
+{	
+	display: none;
 }
