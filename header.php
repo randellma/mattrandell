@@ -9,10 +9,10 @@
 		<link rel="stylesheet" type="text/css" href="css/icons/icons.css" />
 		<link rel="stylesheet" type="text/css" href="css/print.css" />
 		<link rel="stylesheet" type="text/css" href="css/resume.css" />
-		<link rel='stylesheet' media='screen and (max-width: 599px)' href="css/under600.css" />
-		<link rel='stylesheet' media='screen and (min-width: 600px) and (max-width: 899px)' href="css/over600.css" />
-		<link rel='stylesheet' media='screen and (min-width: 900px) and (max-width: 1199px)' href="css/over900.css" />
-		<link rel='stylesheet' media='screen and (min-width: 1200px)' href="css/over1200.css" />
+		<link rel='stylesheet' media='screen and (max-width: 620px)' href="css/under600.css" />
+		<link rel='stylesheet' media='screen and (min-width: 621px) and (max-width: 920px)' href="css/over600.css" />
+		<link rel='stylesheet' media='screen and (min-width: 921px) and (max-width: 1220px)' href="css/over900.css" />
+		<link rel='stylesheet' media='screen and (min-width: 1221px)' href="css/over1200.css" />
 	</head>
 	<body>
 		<div id="top">
