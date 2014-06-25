@@ -15,7 +15,7 @@
 			905-546-6191
 		</p>
 		<h2>Resume</h2>
-		<p><a href="docs/MatthewRandellResume.pdf">PDF</a> - <!--<a href="docs/MatthewRandellResume.docx">Word</a> - --><a href="resume.php">HTML</a></p>
+		<p><a href="docs/MatthewRandellResume.pdf">PDF</a> - <a href="docs/MatthewRandellResume.docx">Word</a> - <a href="resume.php">HTML</a></p>
 	</div>
 </div>
 

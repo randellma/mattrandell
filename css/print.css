@@ -13,10 +13,17 @@
     {
 	    display: none !important;
     }
+    
     #pagecontent
     {
 	    margin: 0px;
 	    float: none;
+    }
+    
+    
+    .resume_header
+    {
+	    margin: 0px;
     }
     
     .resume_header:nth-child(n+2)
@@ -24,16 +31,34 @@
 		page-break-before: always;
 	}
 	
-	.resume_header
-	{
-		margin-top: 0px;
-	}
-	
 	.resume, .resume *
 	{
 		color: black !important;
 		font-size: 14px;
+		border: 0px !important;
 		
+	}
+	
+	/* Safari was spilling blank space onto a third page */
+	.resume ul:last-child
+	{
+		margin-top: 8px;
+		margin-bottom: 0px;
+	}
+	
+	h1
+	{
+		font-size: 20px !important;
+	}
+	
+	h2
+	{
+		font-size: 18px !important;
+	}
+	
+	h3
+	{
+		font-size: 16px !important;
 	}
 	
 	.printonly

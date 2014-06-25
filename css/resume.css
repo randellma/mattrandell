@@ -1,16 +1,11 @@
 .resume *
 {
-	color: #949494 !important;
+	color: #888 !important;
 }
 
-.resume h2, .resume h4
+.resume h1, .resume h2, .resume h4
 {
 	margin: 0px;
-}
-
-.resume_header
-{
-	text-align: center;
 }
 
 .resume ul
@@ -19,11 +14,13 @@
 	margin-bottom: 8px;
 }
 
+
+.resume_header p
+{
+	margin-top: 0px !important;
+}
+
 @media only screen 
 and (max-width : 899px)
 {
-	.resume_header
-	{
-		text-align: left;
-	}
 }

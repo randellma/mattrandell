@@ -3,22 +3,23 @@
 		<?include('overview.php');?>
 	</div>
 	<div id="pagecontent" class="resume">
-		<p class="resume_header">
-			Matthew Randell<br />
-			randellma@gmail.com<br />
-			905-546-6191
-		</p>
-		
+		<div class="resume_header printonly">
+			<h1>Matthew Randell</h1>
+			<p>
+				547 Belmont Avenue West &#149; Kitchener, Ontario, Canada &#149; N2M 5G9<br />
+				905-546-6191 &#149; randellma@gmail.com &#149; www.mattrandell.com
+			</p>
+		</div>
 		
 		<h2>
 			Summary of Qualifications
 		</h2>
 		<ul>
 			<li>
-				Two years experience working in the software industry after earning a Bachelor of Software Engineering degree.
+				Two years of experience developing customized web applications and back end systems at Brock Solutions since earning a Bachelor of Software Engineering degree.
 			</li>
 			<li>
-				Practical experience with C#, Java, PHP, Javascript, HTML, CSS and always looking for ways to learn others.
+				Practical experience with C#, Java, PHP, JavaScript, HTML, CSS and always looking to expand my knowledge of other technologies.
 			</li>
 			<li>
 				Comfortable with interacting closely with clients to collect requirements and feedback.
@@ -49,10 +50,10 @@
 		</h4>
 		<ul>
 			<li>
-				Design and develop custom software for automated manufacturing conveyance and production systems.
+				Design and develop custom web applications for automated manufacturing conveyance and production systems.
 			</li>
 			<li>
-				Leverage C# .Net,  Sql Server, and third party tools to develop a central web application that is used to schedule orders, track hundreds of operations per minute, and drive automated equipment for six large remote manufacturing facilities.
+				Leverage C# .Net, Sql Server, and third party tools to develop a central web application that is used to schedule orders, track hundreds of operations per minute, and drive automated equipment for six large remote manufacturing facilities.
 			</li>
 			<li>
 				Work closely with clients to demonstrate functionality, collect feedback, and discuss user needs.
@@ -91,8 +92,7 @@
 			Carillion Canada
 		</h3>
 		<p class="right">
-			April 2008 - September 2008<br />
-			April 2009 - September 2009<br />
+			April - September of 2008 and 2009<br />
 			April 2010 - June 2010
 		</p>
 		<div style="clear: both;"></div>
@@ -104,20 +104,16 @@
 				Worked independently and in a team of five to provide technical support to a Microsoft Windows server and desktop environments.
 			</li>
 			<li>
-				Took initiative devised a better solution for deploying a large number of computers which allowed us to meet a tight deadline and saved the company money.
-			</li>
-			<li>
 				Gained knowledge of scripting and automation from being tasked with creating scripts to automate IT tasks and increase productivity.
 			</li>
 		</ul>
+		
 		<!-- **************************** -->
 		
 		<div style="clear: both;"></div>
-		<p class="resume_header printonly">
-			Matthew Randell<br />
-			randellma@gmail.com<br />
-			905-546-6191
-		</p>
+		
+		<div class="resume_header printonly">
+		</div>
 		
 		<h2>
 			Education
@@ -137,13 +133,13 @@
 				Taught the fundamentals of engineering and how it relates to design, implementation, and ongoing maintenance of software systems.
 			</li>
 			<li>
-				Was placed on the Deans List for academic excellence.
+				Placed on the Deans List for academic excellence.
 			</li>
 			<li>
 				Followed a detailed design process in a team of four to create a functioning real time strategy game as a capstone project. Our game claimed first place out of the five competing submissions.
 			</li>
 			<li>
-				Implementation and testing leader in a team of five; creating a fully functioning peer to peer chat program with integrated mathematical solving capabilities written in Java. 
+				Implementation and testing leader in a team of five; creating a fully functioning peer to peer chat program with integrated mathematical solving capabilities written in Java.
 			</li>
 		</ul>
 		
@@ -161,6 +157,9 @@
 		<ul>
 			<li>
 				A custom Google Chrome extension that allows the user to speed read any block of text by double clicking it. The custom interface helps eliminate subvocalization of the words by the reader.
+			</li>
+			<li>
+				Greatly improved upon the user experience of a speed reading extensions compared to existing alternatives.
 			</li>
 			<li>
 				Published in the Chrome Web Store and available to download now.
@@ -182,7 +181,7 @@
 				The data collected can be used to analyze any number of custom metrics over any given time frame.
 			</li>
 			<li>
-				Written using PHP, MySql, HTML, and CSS.
+				Written using PHP, MySQL, HTML, and CSS.
 			</li>
 		</ul>
 		<br />
@@ -202,39 +201,39 @@
 		
 		<!-- **************************** -->
 		
-		
 		<h2>
 			Technologies
 		</h2>
 		<ul>
 			<li>
-				Experienced using Visual Studio, C# .Net, Java, PHP, SQL, Javascript, HTML, CSS.
+				Experienced using Visual Studio, C# .Net PHP, SQL, Javascript, HTML, CSS, Java.
 			</li>
 			<li>
-				Familiar with, Python, OCaml, Perl, C++, C, Objective C.
+				Familiar with, Python, OCaml, C++, C
 			</li>
 			<li>
-				Windows, OS X, Linux.
+					Learning Ruby on Rails, Node.JS, and CakePHP
+			</li>
+			<li>
+				Comfortable in a Mac, Windows, and Linux environments.
 			</li>
 		</ul>
 		
 		<!-- **************************** -->
-		
 		
 		<h2>
 			Hobbies
 		</h2>
 		<ul>
 			<li>
-				<strong>Bicycling</strong> - Displayed commitment by training and cycling 100 miles (161km) in 6.5 hours.
+				<strong>Bicycling</strong> - Displayed commitment to my goals by cycling 100 miles (161km) in 6.5 hours.
 			</li>
 			<li>
-				<strong>Weightlifting</strong> - Used intermediate goals as a tool to reach my larger goal of a 405 pound squat.
+				<strong>Powerlifting</strong> - Use intermediate goals as a tool to reach my larger ones.
 			</li>
 			<li>
 				<strong>Photography</strong> - Demonstrate eagerness to learn through self teaching the basics of photography.
 			</li>
 		</ul>
-		
 	</div>
 <?include('footer.php');?>

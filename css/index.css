@@ -4,7 +4,7 @@ body
 	font-family: verdana;
 	padding: 0px;
 	height: 100%;
-	color: #949494;
+	color: #888;
 	
 }
 
@@ -78,7 +78,7 @@ body
 
 #pagecontent h2
 {
-	border-bottom: solid 1px #949494;
+	border-bottom: solid 1px #888;
 	width: 100%;
 }
 
@@ -90,7 +90,7 @@ body
 
 #pagecontent img
 {
-   border:1px solid #949494;
+   border:1px solid #888;
 }
 
 #blurb
@@ -101,7 +101,7 @@ body
 
 .divider
 {
-	border-top: 1px solid #949494;
+	border-top: 1px solid #888;
 }
 
 
