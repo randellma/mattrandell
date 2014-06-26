@@ -8,10 +8,10 @@
 		
 		<h3 id="readsy" class="left"><a href="#readsy">Readsy</a></h3>
 		<a href="https://chrome.google.com/webstore/detail/readsy/nfgdmhanmkceplncfimjockmegfbaooa" title="Download From the Chrome Store">
-			<span class='symbol sidelink'>circleappstorealt</span>
+			<span class='symbol sidelink'>&#xe205;</span>
 		</a>
 		<a href="https://github.com/randellma/Readsy" title="Github Link">
-			<span class='symbol sidelink'>circlegithubalt &nbsp;</span>
+			<span class='symbol sidelink'>&#xe237; &nbsp;</span>
 		</a>
 		<div style="clear: both;"></div>
 		
@@ -30,7 +30,7 @@
 		
 		<h3 id="hashtracker" class="left">Hash Tracker</h3>
 		<a href="https://github.com/randellma/timetracker" title="Github Link">
-			<span class='symbol sidelink'>circlegithubalt</span>
+			<span class='symbol sidelink'>&#xe237;</span>
 		</a>
 		<div style="clear: both;"></div>
 		
@@ -53,7 +53,7 @@
 		
 		<h3 id="giftology" class="left">Giftology</h3>
 		<a href="https://github.com/randellma/giftology" title="Github Link">
-			<span class='symbol sidelink'>circlegithubalt</span>
+			<span class='symbol sidelink'>&#xe237;</span>
 		</a>
 		<div style="clear: both;"></div>
 		

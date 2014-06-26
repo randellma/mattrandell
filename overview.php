@@ -52,10 +52,10 @@
 	<div class="section">
 		<h2>Social Media</h2>
 		<div class="subalign">
-			<p><a href="https://twitter.com/Randellma"><span class='symbol'>circletwitterbird</span> Twitter</a></p>
-			<p><a href="https://github.com/randellma"><span class='symbol'>circlegithubalt</span> GitHub</a></p>
-			<p><a href="http://www.linkedin.com/pub/matthew-randell/27/630/62"><span class='symbol'>circlelinkedin</span> LinkedIn</a></p>
-			<p><a href="https://plus.google.com/u/0/109917150453505575792"><span class='symbol'>circlegoogleplus</span> Google+</a></p>
+			<p><a href="https://twitter.com/Randellma"><span class='symbol'>&#xe286;</span> Twitter</a></p>
+			<p><a href="https://github.com/randellma"><span class='symbol'>&#xe237;</span> GitHub</a></p>
+			<p><a href="http://www.linkedin.com/pub/matthew-randell/27/630/62"><span class='symbol'>&#xe252;</span> LinkedIn</a></p>
+			<p><a href="https://plus.google.com/u/0/109917150453505575792"><span class='symbol'>&#xe239;</span> Google+</a></p>
 		</div>
 	</div>
 </div>
